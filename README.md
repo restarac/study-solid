@@ -7,6 +7,7 @@ Grupo de estudos sobre SOLID
  - Criação do cenário para dojo
  - Criação do projeto `fredojo` para ilustração dos principios
  - Responsável frederico.pereira
+
 ##### http://slides.com/fredericopereira/deck
 
 ## Aula SRP - 15/08/16
